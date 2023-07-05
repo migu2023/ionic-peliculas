@@ -1,0 +1,7 @@
+{
+  "name": "ionicpelis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
